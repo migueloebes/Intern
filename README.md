@@ -15,5 +15,4 @@ straight to the point.</h2>
   <h2>i want to contribuite!</h2>
   <h2>You don't need much to contribute, just point out errors and flaws</h2>
 
-    Download:
-`not avaiable`
+    Download: not avaiable
