@@ -13,6 +13,6 @@ straight to the point.</h2>
 
 <div align="left">
   <h2>i want to contribuite!</h2>
-  <h2>You don't need much to contribute, just point out errors and flaws</h2>
+  <h3>You don't need much to contribute, just point out errors and flaws</h3>
 
     Download: not avaiable
