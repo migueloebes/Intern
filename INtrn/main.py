@@ -6,7 +6,7 @@ from PyQt5.QtWebEngineWidgerts import QWebEngineView
 class MainWindow(QMainWindow):
      super().__init__()
 self.setWindowTitle("Intrn")
-self.setWindowIcon(QIcon('icon./https://media.discordapp.net/attachments/1466835985911386458/1492275825377017936/intern-removebg-preview.png?ex=69dcb7e9&is=69db6669&hm=15b201cbc2295ba184ad02eba6d5ae45d4e5f7aff90da787e9695eb9a35547b3&=&format=webp&quality=lossless'))  
+self.setWindowIcon(QIcon('eu esqueci do icone, lol'))  
 self.setWindowFlags(Qt.Window)
      
 def __init__(self):
